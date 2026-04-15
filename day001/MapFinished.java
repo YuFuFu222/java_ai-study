@@ -1,10 +1,12 @@
 import java.util.Comparator;
+import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.TreeMap;
 
 public class MapFinished {
     public static void main(String[] args) {
         System.out.println("day001 学习开始！");
+        var hm=new HashMap<Integer,Integer>();
         //LinkedHashMap:有序 不重复 无索引
         LinkedHashMap<String,Integer> lhm=new LinkedHashMap<>();
         lhm.put("a",123);
