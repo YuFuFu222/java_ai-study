@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.function.Function;
 import java.util.stream.Stream;
 
-public class demo4 {
+public class Demo4 {
     public static void main(String[] args) {
         /*
         distinct    元素去重,依赖hashCode和equals方法   底层HashSet

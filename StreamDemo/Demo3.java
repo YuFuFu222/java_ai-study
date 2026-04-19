@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 
-public class demo3 {
+public class Demo3 {
     public static void main(String[] args) {
         /*
         filter  过滤

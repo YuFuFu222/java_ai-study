@@ -2,10 +2,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
-import java.util.function.Consumer;
 import java.util.stream.Stream;
 
-public class demo2 {
+public class Demo2 {
     public static void main(String[] args) {
         /*
         1.单列集合:  default Stream<E> stream()

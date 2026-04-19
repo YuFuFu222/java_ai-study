@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class demo7 {
+public class Demo7 {
     public static void main(String[] args) {
         ArrayList<Integer> list1=new ArrayList<>();
         Collections.addAll(list1,1,2,3,4,5,6,7,8,9,10);

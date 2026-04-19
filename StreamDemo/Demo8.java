@@ -1,11 +1,10 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class demo8 {
+public class Demo8 {
     public static void main(String[] args) {
         ArrayList<String > manList=new ArrayList<>();
         ArrayList<String > womanList=new ArrayList<>();

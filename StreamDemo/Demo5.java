@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.function.IntFunction;
 
-public class demo5 {
+public class Demo5 {
     public static void main(String[] args) {
         /*
         终结方法:
