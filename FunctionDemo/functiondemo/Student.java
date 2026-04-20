@@ -51,4 +51,8 @@ public class Student {
     public String toString() {
         return "Student{name = " + name + ", age = " + age + "}";
     }
+
+    public String toStringRule(){
+        return this.name+"-"+ this.age;
+    }
 }
